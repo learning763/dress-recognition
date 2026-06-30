@@ -1,0 +1,7 @@
+path: ./dataset_files
+train: train/images
+val: val/images
+
+# Put your exact Makesense label names here in order:
+names:
+  0: combat
