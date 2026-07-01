@@ -4,4 +4,7 @@ val: val/images
 
 # Put your exact Makesense label names here in order:
 names:
-  0: combat
+  0: Combat
+  1: Official
+  2: Civil
+  3: Tunik
